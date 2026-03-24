@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/aineffa" width="150" style="border-radius: 50%;" alt="Profile Picture">
-  
+
   # 👋 Hi, I'm @aineffa
   
   [![GitHub followers](https://img.shields.io/github/followers/aineffa?style=social)](https://github.com/aineffa)
@@ -21,7 +20,7 @@
 
 ### 👀 关于我
 
-我是一名热衷于**人工智能**和**大语言模型（LLM）**的开发者，专注于探索前沿技术如何改变我们的工作和生活方式。
+我是一名热衷于 **人工智能** 和 **大语言模型（LLM）** 的开发者，专注于探索前沿技术如何改变我们的工作和生活方式。
 
 ### 🚀 技术领域
 

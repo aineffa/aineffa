@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @howtohowto
-- 👀 I’m interested in languages
+- 👋 Hi, I’m @aineffa
+- 👀 I’m interested in world model
 - 🌱 I’m currently learning text-analysis
 
 <!---
-howtohowto/howtohowto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aineffa/aineffa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
